@@ -1,0 +1,25 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "My first snake game ~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearcutexdxd/snake-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bearcutexdxd/snake-game/issues"
+  },
+  "homepage": "https://github.com/bearcutexdxd/snake-game#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
